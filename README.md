@@ -1,12 +1,8 @@
 # Email-API
-This is a free api, for send email
+C'est une api gratuite qui vous permet d'envoyé des mails, juste avec le html (SANS PHP)
 
-#How to do?
+#<a href="http://https://github.com/DevilsCraft/Email-API/exemple/html">Exemple de formulaire</A>
 
-For send a email with this API
 
-BLABLABLABLA
-
-#<a href="exemple.html">Example</A>
 
 
