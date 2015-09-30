@@ -1,0 +1,26 @@
+<html>
+
+...
+
+<body>
+
+...
+
+<form action="http://petitbonhomme.co/api/emailApi.php" method="POST"> <!-- OBLIGATOIRE -->
+
+	<input type="hidden" name="to" value="quentin.aslan@outlook.com" /> <!-- Adresse ou le mail va être envoyé -->
+	<input type="hidden" name="site" value="http://tonsite.com" /> <!-- Url de la page de contact de votre site -->
+
+
+	<input type="text" name="pseudo" placeholder="Pseudo" /> <!-- Le pseudo du client (NE PAS OUBLIER LE NAME) -->
+
+	<input type="email" name="from" placeholder="Email" />  <!-- Adresse mail du client (NE PAS OUBLIER LE NAME ) -->
+	
+	<input type="text" name="subject" placeholder="Subject" /> <!-- Sujet du message (NE PAS OUBLIER LE NAME ) -->
+
+	<textarea name="message" placeholder="Message"></textarea> <!-- Son message ... (NE PAS OUBLIER LE NAME) -->
+
+	<input type="submit" />
+	
+</form>
+...
