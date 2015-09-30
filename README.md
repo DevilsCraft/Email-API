@@ -5,8 +5,10 @@ C'est une api gratuite qui vous permet d'envoyé des mails, juste avec le html (
 
 ###By Quentin Aslan 
 
-<a href="http://quentin-aslan.fr/contact">contact@quentin-aslan.fr</a>
+http://quentin-aslan.fr/contact
 
-<a href="http://quentin-aslan.fr" target="_blank">http://quentin-aslan.fr</a>
+contact@quentin-aslan.fr // quentin.aslan@outlook.com
+
+
 
 
